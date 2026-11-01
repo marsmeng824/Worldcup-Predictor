@@ -1,0 +1,56 @@
+group,team,confederation,fifa_rank_nov_2025,fifa_rank_jun_2026,strength,attack,defense,continental_cup,continental_result,continental_cup_score,squad_players_counted,premier_league_players,serie_a_players,la_liga_players,bundesliga_players,ligue_1_players,big5_league_players,big5_player_share,non_big5_players
+A,Mexico,CONCACAF,15,14,93.5,94,93,2025 CONCACAF Gold Cup,Champion,100,26,1,2,2,0,0,5,0.192,21
+A,South Africa,CAF,61,60,70.5,71,70,2023 Africa Cup of Nations,Third place,85,26,1,0,0,0,0,1,0.038,25
+A,South Korea,AFC,22,25,88.0,88,88,2023 AFC Asian Cup,Semi-finals,80,26,1,0,0,3,1,5,0.192,21
+A,Czechia,UEFA,44,40,80.5,81,80,UEFA Euro 2024,Group stage,45,26,2,0,0,4,1,7,0.269,19
+B,Canada,CONCACAF,27,30,85.5,86,85,2025 CONCACAF Gold Cup,Quarter-finals,70,26,0,2,2,1,1,6,0.231,20
+B,Bosnia and Herzegovina,UEFA,71,64,68.5,69,68,UEFA Euro 2024,Did not qualify,30,26,0,2,0,2,0,4,0.154,22
+B,Qatar,AFC,51,56,72.5,73,72,2023 AFC Asian Cup,Champion,100,26,0,0,0,0,0,0,0.000,26
+B,Switzerland,UEFA,17,19,91.0,91,91,UEFA Euro 2024,Quarter-finals,70,26,4,4,4,7,3,22,0.846,4
+C,Brazil,CONMEBOL,5,6,97.5,98,97,2024 Copa America,Quarter-finals,70,26,8,2,2,0,2,14,0.538,12
+C,Morocco,CAF,11,7,97.0,97,97,2023 Africa Cup of Nations,Round of 16,60,26,4,1,3,2,5,15,0.577,11
+C,Haiti,CONCACAF,84,83,59.0,59,59,2025 CONCACAF Gold Cup,Group stage,45,26,2,0,0,0,2,4,0.154,22
+C,Scotland,UEFA,36,42,79.5,80,79,UEFA Euro 2024,Group stage,45,26,8,3,0,0,0,11,0.423,15
+D,United States,CONCACAF,14,17,92.0,92,92,2025 CONCACAF Gold Cup,Runner-up,90,26,4,2,1,3,3,13,0.500,13
+D,Paraguay,CONMEBOL,39,41,80.0,80,80,2024 Copa America,Group stage,45,26,2,1,0,0,1,4,0.154,22
+D,Australia,AFC,26,27,87.0,87,87,2023 AFC Asian Cup,Quarter-finals,70,26,0,1,1,0,0,2,0.077,24
+D,Turkey,UEFA,25,22,89.5,90,89,UEFA Euro 2024,Quarter-finals,70,26,2,3,1,3,0,9,0.346,17
+E,Germany,UEFA,9,10,95.5,96,95,UEFA Euro 2024,Quarter-finals,70,26,5,0,1,19,0,25,0.962,1
+E,Curacao,CONCACAF,82,82,59.5,60,59,2025 CONCACAF Gold Cup,Group stage,45,26,0,0,0,0,0,0,0.000,26
+E,Ivory Coast,CAF,42,33,84.0,84,84,2023 Africa Cup of Nations,Champion,100,26,3,3,1,2,3,12,0.462,14
+E,Ecuador,CONMEBOL,23,23,89.0,89,89,2024 Copa America,Quarter-finals,70,26,3,2,0,1,1,7,0.269,19
+F,Netherlands,UEFA,7,8,96.5,97,96,UEFA Euro 2024,Semi-finals,80,26,15,4,1,1,1,22,0.846,4
+F,Japan,AFC,18,18,91.5,92,91,2023 AFC Asian Cup,Quarter-finals,70,26,2,0,1,6,1,10,0.385,16
+F,Sweden,UEFA,43,38,81.5,82,81,UEFA Euro 2024,Did not qualify,30,26,8,2,1,1,0,12,0.462,14
+F,Tunisia,CAF,40,45,78.0,78,78,2023 Africa Cup of Nations,Group stage,45,26,1,0,0,3,3,7,0.269,19
+G,Belgium,UEFA,8,9,96.0,96,96,UEFA Euro 2024,Round of 16,60,26,7,5,2,1,5,20,0.769,6
+G,Egypt,CAF,34,29,86.0,86,86,2023 Africa Cup of Nations,Round of 16,60,26,2,0,0,0,1,3,0.115,23
+G,Iran,AFC,20,20,90.5,91,90,2023 AFC Asian Cup,Semi-finals,80,26,0,0,0,0,0,0,0.000,26
+G,New Zealand,OFC,86,85,58.0,58,58,2024 OFC Men's Nations Cup,Champion,100,26,1,0,0,0,0,1,0.038,25
+H,Spain,UEFA,1,2,99.5,100,99,UEFA Euro 2024,Champion,100,26,7,0,17,1,1,26,1.000,0
+H,Cape Verde,CAF,68,67,67.0,67,67,2023 Africa Cup of Nations,Quarter-finals,70,26,0,0,1,0,0,1,0.038,25
+H,Saudi Arabia,AFC,60,61,70.0,70,70,2023 AFC Asian Cup,Round of 16,60,26,0,0,0,0,1,1,0.038,25
+H,Uruguay,CONMEBOL,16,16,92.5,93,92,2024 Copa America,Third place,85,26,3,1,3,0,0,7,0.269,19
+I,France,UEFA,3,3,99.0,99,99,UEFA Euro 2024,Semi-finals,80,26,7,4,3,2,8,24,0.923,2
+I,Senegal,CAF,19,15,93.0,93,93,2023 Africa Cup of Nations,Round of 16,60,26,7,1,2,2,8,20,0.769,6
+I,Iraq,AFC,58,57,72.0,72,72,2023 AFC Asian Cup,Round of 16,60,26,0,1,0,0,0,1,0.038,25
+I,Norway,UEFA,29,31,85.0,85,85,UEFA Euro 2024,Did not qualify,30,26,7,5,2,2,0,16,0.615,10
+J,Argentina,CONMEBOL,2,1,100.0,100,100,2024 Copa America,Champion,100,26,6,2,7,1,4,20,0.769,6
+J,Algeria,CAF,35,28,86.5,87,86,2023 Africa Cup of Nations,Group stage,45,26,1,1,0,3,5,10,0.385,16
+J,Austria,UEFA,24,24,88.5,89,88,UEFA Euro 2024,Round of 16,60,26,1,1,2,12,0,16,0.615,10
+J,Jordan,AFC,66,63,69.0,69,69,2023 AFC Asian Cup,Runner-up,90,26,0,0,0,0,1,1,0.038,25
+K,Portugal,UEFA,6,5,98.0,98,98,UEFA Euro 2024,Quarter-finals,70,26,7,2,4,0,4,17,0.654,9
+K,DR Congo,CAF,56,46,77.5,78,77,2023 Africa Cup of Nations,Fourth place,80,26,4,0,2,0,4,10,0.385,16
+K,Uzbekistan,AFC,50,50,75.5,76,75,2023 AFC Asian Cup,Quarter-finals,70,26,1,0,0,0,0,1,0.038,25
+K,Colombia,CONMEBOL,13,13,94.0,94,94,2024 Copa America,Runner-up,90,26,2,1,2,1,1,7,0.269,19
+L,England,UEFA,4,4,98.5,99,98,UEFA Euro 2024,Runner-up,90,26,21,0,2,2,0,25,0.962,1
+L,Croatia,UEFA,10,11,95.0,95,95,UEFA Euro 2024,Group stage,45,26,2,7,3,4,0,16,0.615,10
+L,Ghana,CAF,72,73,64.0,64,64,2023 Africa Cup of Nations,Group stage,45,26,1,1,3,0,6,11,0.423,15
+L,Panama,CONCACAF,30,34,83.5,84,83,2025 CONCACAF Gold Cup,Quarter-finals,70,26,0,0,0,0,0,0,0.000,26
+FAN,China,AFC,93,91,56.0,56,56,2023 AFC Asian Cup,Group stage,45,26,0,0,0,0,0,0,0.000,26
+FAN,India,AFC,136,139,44.0,44,44,2023 AFC Asian Cup,Group stage,45,26,0,0,0,0,0,0,0.000,26
+FAN,Italy,UEFA,12,12,94.5,95,94,UEFA Euro 2024,Round of 16,60,26,2,18,1,2,1,24,0.923,2
+FAN,Poland,UEFA,31,35,83.0,83,83,UEFA Euro 2024,Group stage,45,26,5,3,2,5,1,16,0.615,10
+FAN,Denmark,UEFA,21,21,90.0,90,90,UEFA Euro 2024,Round of 16,60,26,7,3,2,7,1,20,0.769,6
+FAN,Ukraine,UEFA,28,26,87.5,88,87,UEFA Euro 2024,Group stage,45,26,5,2,3,2,1,13,0.500,13
+FAN,Russia,UEFA,38,36,82.0,82,82,UEFA Euro 2024,Excluded,0,26,0,1,1,0,1,3,0.115,23

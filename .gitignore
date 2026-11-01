@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+.env
+
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+dataset.ipynb
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.streamlit/secrets.toml
+
+# Generated datasets, reports, and trained models
+models/
+data/analysis_data.csv
+data/team_current_features.csv
+data/model_*.csv
+data/regression_*.csv
+data/three_team_*.csv
